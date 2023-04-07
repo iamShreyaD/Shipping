@@ -1,8 +1,10 @@
+
+# ---------------------------------------------------------------------------------------------------------
 # Shreya B Deshpande
 # This project is done through Codecademy
 # The project prints cost for ground shipping and the cost for drone shipping accordin to the weight. 
 # Cost of ground shipping also includes flat charge and sometimes ground shipping premium.
-
+# ---------------------------------------------------------------------------------------------------------
 weight = 1.5
 
 if (2 >= weight):
